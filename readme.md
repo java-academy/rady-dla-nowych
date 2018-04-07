@@ -10,7 +10,7 @@ Masz rady dla nowych? To wrzuć!
 
 1. Klonuj repo `git clone https://github.com/java-academy/rady-dla-nowych.git rady`
 2. Instaluj fortune via `sudo apt install fortune-mod`
-3. kopiuj plik dat: `sudo mv rady/rady.dat /usr/share/games/fortunes/`
+3. kopiuj rady: `sudo cp rady/rady* /usr/share/games/fortunes/`
 4. Baw się: `fortune rady`
 
-Sugeruję też w odpowiednim pliku `rc` Twojej powłoki (`.bashrc` lub `.zshrc`) dodać wywołanie fortune, by rady pojawiały się przy logowaniu.
+Sugeruję też w odpowiednim pliku `rc` Twojej powłoki (`.bashrc` lub `.zshrc`) dodać wywołanie fortune, by rady pojawiały się przy logowaniu (odpaleniu nowego terminala w tej powłoce).
