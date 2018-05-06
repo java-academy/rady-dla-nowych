@@ -1,3 +1,5 @@
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/LIttleAncientForestKami)
+
 # Co to jest?
 
 Rady dla nowych zaczęły się jako proste odczytanie rad jakie poprzednicy zostawili obecnym Akademikom. Ale teraz przyjmą formę pliku `fortune`. :-)
