@@ -11,3 +11,4 @@ A szczególnie dla:
 3. Michała za dorzucenie swojego.
 4. Bartka i Przemka i Jarka - trio z 5tej edycji.
 5. Krzysia - który stwierdził, że jest jedna rada która jest wiele warta.
+6. Adama i Mateusza Sypiego, którzy dorzucili bardzo fajne porady (6ta edycja).
